@@ -1,5 +1,6 @@
 # Proyecto Intermodular -  
 Nazar Omelianenko DAM 2025-2026
+
 ## Descripción
 Breve descripción del proyecto y su propósito.
 ## Estructura del Proyecto
